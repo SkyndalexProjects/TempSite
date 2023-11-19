@@ -133,3 +133,6 @@ a {
     gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 }
+.basic-info {
+    color: #737171
+}
